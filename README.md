@@ -24,7 +24,7 @@ With 3 years of experience as a Software Engineer, I'm on a mission to create te
 ------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushsanand&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushsanand&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/dhanushsanand/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/dhanushsanand">
@@ -45,10 +45,10 @@ With 3 years of experience as a Software Engineer, I'm on a mission to create te
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,fastapi"/></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i="/></td>
-    </tr>
+    </tr> -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch,rocksdb"/></td>
@@ -57,10 +57,10 @@ With 3 years of experience as a Software Engineer, I'm on a mission to create te
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins"/></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=junit,mockito"/></td>
-    </tr>
+    </tr> -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,bitbucket"/></td>
@@ -80,8 +80,7 @@ With 3 years of experience as a Software Engineer, I'm on a mission to create te
 </table>
 
 ------
-[RResabala2015](https://github.com/dhanushsanand)
-26/07/2024
+[dhanushsanand](https://github.com/dhanushsanand)
 
 <!--
 **dhanushsanand/dhanushsanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
